@@ -70,7 +70,7 @@
 			</div>
 			<div class="col-lg-4 text-lg-end">
 				<a class="link-dark text-decoration-none me-3" href="javascript:void(0)" id="p_use">Privacy Policy</a>
-        <span>Developed By: <a href="mailto:oretnom23@gmail.com">oretnom23</a></span>
+        <span>Developed By: <a href="mailto:oretnom23@gmail.com">Hostel Explorer</a></span>
 			</div>
 		</div>
 	</div>
