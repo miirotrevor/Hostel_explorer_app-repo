@@ -1,3 +1,4 @@
+##Login page 
 <style>
     #uni_modal .modal-content>.modal-footer,#uni_modal .modal-content>.modal-header{
         display:none;
@@ -13,6 +14,7 @@
         <div class="col-lg-5 border-right">
             <h3 class="text-center">Login</h3>
             <hr>
+            ##Form detailss
             <form action="" id="login-form">
                 <div class="form-group">
                     <label for="" class="control-label">Username</label>
