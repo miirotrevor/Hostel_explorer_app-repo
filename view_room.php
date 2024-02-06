@@ -58,6 +58,7 @@ if(is_dir(base_app.'uploads/room_'.$id)){
 <script>
     $(function(){
         $('#book').click(function(){
+            ##Usser data information
             if("<?php echo $_settings->userdata('id') ?>" > 0)
                 uni_modal("Book Info","book_form.php?room_id=<?php echo $id ?>","large");
             else
